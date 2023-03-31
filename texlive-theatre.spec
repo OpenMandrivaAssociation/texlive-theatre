@@ -1,6 +1,6 @@
 Name:		texlive-theatre
 Version:	45363
-Release:	1
+Release:	2
 Summary:	A sophisticated package for typesetting stage plays
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/theatre
