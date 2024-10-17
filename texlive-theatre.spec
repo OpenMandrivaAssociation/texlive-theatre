@@ -3,7 +3,7 @@ Version:	45363
 Release:	2
 Summary:	A sophisticated package for typesetting stage plays
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/theatre
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/theatre
 License:	lppl1.2
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/theatre.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/theatre.doc.r%{version}.tar.xz
